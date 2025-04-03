@@ -15,4 +15,4 @@ RentYard offers seamless property management with tools for managing leases, han
 - Invoicing and Employee Management
 - Manage Leases, Tenants, and Vacancies
 
-### [rentyard.net](https://rentyard.net/) - [Contact Us](https://rentyard.net/help) - [support@rentyard.net](mailto:support@rentyard.net)
+### [rentyard.com](https://rentyard.com/) - [support@rentyard.com](mailto:support@rentyard.com)
